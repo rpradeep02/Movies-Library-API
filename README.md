@@ -1,10 +1,10 @@
-#Django-based-Movies-Library-API
+# Django-based-Movies-Library-API
 This is a Django based Movies-Library-API. The main objective of this project is, the Customer can search for the particular Movie through online
 
-#Requirements
+# Requirements
 For this project to run on your system we need the some packages to be installed for that open your command prompt and navigate to the folder where there is requirements.txt file and enter the command "pip install -r requirements.txt"
 
-#Run this project
+# Run this project
 To run this project, open the command prompt in your project folder
 
 Note: You have to navigate to the folder where there is manage.py file.
